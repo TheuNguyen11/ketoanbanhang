@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "G223NTheuoStoreVNM", "G223NTheuoStoreVNM.csproj", "{B6814556-0FB6-4CA7-8CAF-8B7DFC7627A6}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "G223NTheu_SaleAcc_SetUp", "G223NTheu_SaleAcc_SetUp\G223NTheu_SaleAcc_SetUp.vdproj", "{41FF05CE-BF45-4DAF-84C5-782EFF9B0AEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6814556-0FB6-4CA7-8CAF-8B7DFC7627A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6814556-0FB6-4CA7-8CAF-8B7DFC7627A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6814556-0FB6-4CA7-8CAF-8B7DFC7627A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6814556-0FB6-4CA7-8CAF-8B7DFC7627A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41FF05CE-BF45-4DAF-84C5-782EFF9B0AEF}.Debug|Any CPU.ActiveCfg = Debug
+		{41FF05CE-BF45-4DAF-84C5-782EFF9B0AEF}.Debug|Any CPU.Build.0 = Debug
+		{41FF05CE-BF45-4DAF-84C5-782EFF9B0AEF}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5EE8A3CC-4D17-4387-BBA9-C8EFF61262C5}
+	EndGlobalSection
+EndGlobal
